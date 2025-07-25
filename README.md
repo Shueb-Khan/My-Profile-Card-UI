@@ -4,7 +4,10 @@ A modern and responsive HTML profile card built to represent my identity as a Cl
 
 ## 📸 Preview
 
-![Profile Card Screenshot](Profile.png)
+
+
+![Profile Card](https://github.com/user-attachments/assets/f5913114-aa67-49d2-b5b3-9aeef8337b58)
+
 
 ## 🧰 Technologies Used
 
